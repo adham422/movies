@@ -10,7 +10,7 @@ const NavBar = ({ search }) => {
       <Container>
         <Row className="pt-2 ">
           <Col xs="2" lg="1">
-            <a href="/movies/">
+            <a href="/">
               <img className="logo" src={logo} alt="dfs" />
             </a>
           </Col>
